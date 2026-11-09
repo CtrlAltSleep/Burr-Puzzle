@@ -3,3 +3,8 @@ a puzzle which twists your brain around, this puzzle contains 8 interlocking pie
 
 <img width="489" height="336" alt="image" src="https://github.com/user-attachments/assets/01820a42-6efd-419a-b683-4443ad3799ce" />
 <img width="489" height="336" alt="image" src="https://github.com/user-attachments/assets/8dbd3e86-7516-4251-b49d-3c2ed500b20f" />
+
+
+in the repo i will also put the stl
+
+you need, 2 D, 2 C, 1A, 1B
