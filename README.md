@@ -7,4 +7,4 @@ a puzzle which twists your brain around, this puzzle contains 8 interlocking pie
 
 in the repo i will also put the stl
 
-you need, 2 D, 2 C, 1A, 1B
+for one puzzle you will need, 2D, 2C, 1A, 1B
